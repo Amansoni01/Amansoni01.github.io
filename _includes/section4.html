@@ -1,0 +1,25 @@
+<section id="works">
+    <div class="container">
+        <!-- section title -->
+        <h2 class="section-title wow fadeInUp">{{main.section4.title}}</h2>
+        <div class="spacer" data-height="60"></div>
+        <!-- portfolio filter (desktop) -->
+        <ul class="portfolio-filter list-inline wow fadeInUp">
+            <li class="current list-inline-item" data-filter="*">Everything</li>
+            {{section4.categories}}
+        </ul>
+        <!-- portolio wrapper -->
+        <div class="row portfolio-wrapper">
+            {{section4.work}}
+        </div>
+        <!-- more button -->
+        <!-- <div class="load-more text-center mt-4">
+            <a href="javascript:" class="btn btn-default"><i class="fas fa-spinner"></i> Load more</a>
+            <\!-- numbered pagination (hidden for infinite scroll) --\>
+            <ul class="portfolio-pagination list-inline d-none">
+                <li class="list-inline-item">1</li>
+                <li class="list-inline-item"><a href="works-2.html">2</a></li>
+            </ul>
+        </div> -->
+    </div>
+</section>
