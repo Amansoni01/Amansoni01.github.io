@@ -1,0 +1,97 @@
+whoami: 
+- whoami title1
+- whoami title2
+- whoami title3 
+- whoami title4
+
+avatar: assets/images/avatar.svg
+avatar_scale: 180
+
+socialsites: 
+  - position: 1
+    site: facebook
+    link: example.com
+    color: '0000ff'
+
+  - position: 2
+    site: github
+    link: example.com
+    color: '00ff00'
+  
+  - position: 3
+    site: instagram
+    link: example.com
+    color: 'ff0000'
+  
+  - position: 4
+    site: twitter
+    link: example.com
+    color: '0ff000'
+
+  - position: 5
+    site: whatsapp
+    link: example.com
+    color: '000ff0'
+
+# Website to find icons: https://devicon.dev/
+
+parallax: 
+  - position: 1
+    img: "assets/images/emoji/1.svg"
+    scale: 50
+    depth: "0.3"
+
+  - position: 2
+    img: "assets/images/emoji/2.svg"
+    scale: 50
+    depth: "0.2"
+
+  - position: 3
+    img: "assets/images/emoji/3.svg"
+    scale: 50
+    depth: "0.3"
+
+  - position: 4
+    img: "assets/images/emoji/4.svg"
+    scale: 50
+    depth: "0.6"
+
+  - position: 5
+    img: "assets/images/emoji/5.svg"
+    scale: 50
+    depth: "0.2"
+
+  - position: 6
+    img: "assets/images/emoji/6.svg"
+    scale: 50
+    depth: "0.5"
+
+  - position: 7
+    img: "assets/images/emoji/7.svg"
+    scale: 50
+    depth: "0.4"
+
+  - position: 8
+    img: "assets/images/emoji/8.svg"
+    scale: 50
+    depth: "0.3"
+
+  - position: 9
+    img: "assets/images/emoji/9.svg"
+    scale: 50
+    depth: "0.4"
+
+  - position: 10
+    img: "assets/images/emoji/10.svg"
+    scale: 50
+    depth: "0.2"
+
+  - position: 11
+    img: "assets/images/emoji/11.svg"
+    scale: 50
+    depth: "0.5"
+
+btn:
+  show: true
+  text: contact me
+  link: https://www.example.com/something
