@@ -1,0 +1,28 @@
+section1:
+  show: true
+  title: Section 1
+
+section2:
+  show: true
+  title: Section 2
+
+section3:
+  show: true
+  title: Section 3
+
+section4:
+  show: true
+  title: Section 4
+
+section5:
+  show: true
+  title: Section 5
+
+section6:
+  show: true
+  title: Section 6
+
+contact:
+  show: true
+  title: Get In Touch
+  subtitle: Let's talk about everything!
