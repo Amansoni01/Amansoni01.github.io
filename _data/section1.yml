@@ -1,0 +1,40 @@
+Intro:  
+  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  avatar: assets/images/avatar.svg
+
+btn: 
+  show: true
+  text: See More
+  link: www.example.com/something
+
+skills: 
+  - skill: Skill 1
+    percentage: 85
+    color: "6610f2"
+
+  - skill: Skill 2
+    percentage: 95
+    color: "6610f2"
+
+  - skill: Skill 3
+    percentage: 75
+    color: "6610f2"
+
+# https://simplelineicons.github.io/
+
+stats:
+  - title: Counter 1
+    icon: social-youtube
+    count: 100
+    
+  - title: Counter 2
+    icon: social-steam
+    count: 12
+
+  - title: Counter 3
+    icon: people
+    count: 4
+
+  - title: Counter 4
+    icon: badge
+    count: 10
