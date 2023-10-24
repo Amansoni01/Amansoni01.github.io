@@ -1,0 +1,30 @@
+skills: 
+  - time_delay: 0
+    tile_color: 6C6CE5
+    title: Talent 1
+    title_color: "000000"
+    img: assets/images/skill.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
+  
+  - time_delay: 0.2
+    tile_color: F9D74C
+    title: Talent 2
+    title_color: "000000"
+    img: assets/images/skill.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
+  
+  - time_delay: 0.4
+    tile_color: F97B8B
+    title: Talent 3
+    title_color: "000000"
+    img: assets/images/skill.svg
+    text: Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.
+    text_color: "000000"
+
+btn:
+  show: true
+  linktext: Click here
+  link: "#contact"
+  text: " to contact me! 👋"
