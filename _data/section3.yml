@@ -1,0 +1,38 @@
+Education:
+  - time_delay: 0
+    period: 2021 - Present
+    title: Program 1
+    subject: Subject 1
+    college: College 1
+    link: https://www.example.com/
+  
+  - time_delay: 0.2
+    period: 2018 - 2021
+    title: Program 2
+    subject: Subject 2
+    college: College 2
+    link: https://www.example.com/
+
+  - time_delay: 0.4
+    period: 2016 - 2018
+    title: Program 3
+    subject: Subject 3
+    college: College 3
+    link: https://www.example.com/
+
+
+Work:
+  - time_delay: 0
+    period: 2022 - Present
+    title: Title 1
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit.
+  
+  - time_delay: 0.2
+    period: 2021 - 2022
+    title: Title 2
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit.
+
+  - time_delay: 0.4
+    period: 2019 - 2021
+    title: Title 3
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit.
