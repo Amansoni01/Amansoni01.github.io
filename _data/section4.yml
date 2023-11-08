@@ -1,0 +1,46 @@
+categories:
+  - category1
+  - category3
+  - category2
+  - category4
+
+work:
+  - title: A Nice title 1
+    category: 
+      - category1
+      - category3
+    img: assets/images/works/1.svg
+    link: link
+  
+  - title: A Nice title 2
+    category:
+      - category4
+      - category2
+    img: assets/images/works/2.svg
+    link: link
+  
+  - title: A Nice title 3
+    category:
+      - category3
+      - category1
+    img: assets/images/works/3.svg
+    link: link
+  
+  - title: A Nice title 4
+    category: 
+      - category4
+      - category1
+    img: assets/images/works/4.svg
+    link: link
+  
+  - title: A Nice title 5
+    category:
+      - category2
+    img: assets/images/works/5.svg
+    link: link
+  
+  - title: A Nice title 6
+    category:
+      - category3
+    img: assets/images/works/6.svg
+    link: link
