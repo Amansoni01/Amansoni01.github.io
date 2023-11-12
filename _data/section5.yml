@@ -1,0 +1,24 @@
+
+Reviews: 
+  - name: Name 1
+    img: assets/images/avatar.svg
+    designation: Something at ABC
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
+  
+  - name: Name 2
+    img: assets/images/avatar.svg
+    designation: something at XYZ
+    text: Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam hendrerit nibh in massa semper rutrum. In rhoncus eleifend mi id tempus. Good luck! 👍
+
+
+# https://devicon.dev/
+
+Icons:
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg
+  - https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg
