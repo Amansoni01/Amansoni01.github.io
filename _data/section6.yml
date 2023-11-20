@@ -1,0 +1,21 @@
+posts: 
+  - type: Category 1
+    img: assets/images/blog/2.svg
+    title: "A nice title"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.example.com/something
+  
+  - type: Category 2
+    img: assets/images/blog/3.svg
+    title: "A nice title"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.example.com/something
+  
+  - type: Category 3
+    img: assets/images/blog/1.svg
+    title: "A nice title"
+    date: "07 January, 2022"
+    author: "prime"
+    link: https://www.example.com/something
